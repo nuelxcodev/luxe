@@ -1,0 +1,8 @@
+{
+  "name": "LuxeCommerce - Premium Shopping Experience",
+  "description": "A high-end, mobile-first e-commerce platform featuring modern UI components, real-time search grounding with Gemini, and a seamless checkout flow.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
